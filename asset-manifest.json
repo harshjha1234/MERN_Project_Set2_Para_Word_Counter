@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MERN_Project_Set2_Para_Word_Counter/static/css/main.f8e59e7f.css",
+    "main.js": "/MERN_Project_Set2_Para_Word_Counter/static/js/main.46caf10a.js",
+    "static/js/787.18680676.chunk.js": "/MERN_Project_Set2_Para_Word_Counter/static/js/787.18680676.chunk.js",
+    "index.html": "/MERN_Project_Set2_Para_Word_Counter/index.html",
+    "main.f8e59e7f.css.map": "/MERN_Project_Set2_Para_Word_Counter/static/css/main.f8e59e7f.css.map",
+    "main.46caf10a.js.map": "/MERN_Project_Set2_Para_Word_Counter/static/js/main.46caf10a.js.map",
+    "787.18680676.chunk.js.map": "/MERN_Project_Set2_Para_Word_Counter/static/js/787.18680676.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f8e59e7f.css",
+    "static/js/main.46caf10a.js"
+  ]
+}
